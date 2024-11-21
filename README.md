@@ -4,7 +4,7 @@
 Since prevention of Heart Disease has become more than important for saving lifes.
 Good data-driven systems for prediction of heart diseases can improve the entire research and prevention process, making sure that more people can live healthy lives.Machine Learning can help in predicting the heart diseases, and the prediction made are quite accurate depending on the number of datas provided.
 
-This project involves analysis of the a dataset containing details of 4239 patients with and without heart diseases. With proper data processing, models were trained and fed into different classification models like KNN, Decision Tree, Random Forest,SVM, Logistic Regression etc. The jupyter notebook includes graphs and heatmaps of correlation of patients health data with the Target variable depicting the status of Heart Disease.
+This project involves analysis of the a dataset containing details of 4239 patients with and without heart diseases. With proper data processing, models were trained and fed into different classification models like KNN, Decision Tree, Random Forest, SVM, Logistic Regression etc. The jupyter notebook includes graphs and heatmaps of correlation of patients health data with the Target variable depicting the status of Heart Disease.
 
 The Machine Learning algorithms are implemented on python language, predicting the Heart Disease in a patient.This is a classification problem, with input features as a variety of parameters, and the target variable as a binary variable, predicting whether heart disease is present or not.
 
